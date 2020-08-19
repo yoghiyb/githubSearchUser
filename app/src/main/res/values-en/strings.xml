@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserApp2</string>
+    <string name="name">Yoghi Yuna Burnama</string>
+    <string name="search_placeholder">Type github username</string>
+    <string name="search">Search</string>
+    <string name="change_lang">Change Language</string>
+
+    <string name="tabs_follower">Follower</string>
+    <string name="tabs_following">Following</string>
+
+    <string name="not_found">User not found!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_message">Tap the search icon to do a search</string>
+    <string name="repository">Repository</string>
+    <string name="test_num">0</string>
+    <string name="follower_message">Don\'t have followers yet</string>
+    <string name="following_message">Not following anyone</string>
+    <string name="favourite">Favourite</string>
+    <string name="fav_message">There are no favorite users</string>
+    <string name="key_reminder">Reminder</string>
+    <string name="setting">Setting</string>
+</resources>

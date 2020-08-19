@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUserApp2</string>
+    <string name="name">Yoghi Yuna Burnama</string>
+    <string name="search_placeholder">Ketik Username github</string>
+    <string name="search">Cari</string>
+    <string name="change_lang">Ganti Bahasa</string>
+
+    <string name="tabs_follower">Pengikut</string>
+    <string name="tabs_following">Mengikuti</string>
+
+    <string name="not_found">Pengguna tidak ditemukan!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_message">Ketuk ikon pencarian untuk melakukan pencarian</string>
+    <string name="repository">Repositori</string>
+    <string name="test_num">0</string>
+    <string name="follower_message">Belum mempunyai pengikut</string>
+    <string name="following_message">Belum mengikuti siapapun</string>
+    <string name="favourite">favorit</string>
+    <string name="fav_message">Belum ada user favorit</string>
+    <string name="key_reminder">Pengingat</string>
+    <string name="setting">Pengaturan</string>
+</resources>

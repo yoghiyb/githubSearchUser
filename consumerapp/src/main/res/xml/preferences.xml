@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:iconSpaceReserved="false"
+    tools:targetApi="o">
+
+    <SwitchPreference
+        android:title="Pengingat setiap jam 9 pagi"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:iconSpaceReserved="false"
+        android:key="@string/key_reminder"
+        />
+</PreferenceScreen>
